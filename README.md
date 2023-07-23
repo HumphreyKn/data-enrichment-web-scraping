@@ -25,7 +25,7 @@ Performed data gathering using web scraping to enrich your client’s dataset (`
 The dataset is available in the `data` folder.
 
 1. Conducted Data Gathering:
-   - Scraped this IMDb webpage of movies released between 2018 and 2020, sorted by votes in descending order. Pulled movie_id, rank, title, year, rating, runtime, and votes for the top 500 movies sorted by user number of votes in descending order.
+   - Scraped this [IMDb webpage](https://www.imdb.com/search/title/?at=0&sort=num_votes,desc&start=1&title_type=feature&year=2018,2020) of movies released between 2018 and 2020, sorted by votes in descending order. Pulled movie_id, rank, title, year, rating, runtime, and votes for the top 500 movies sorted by user number of votes in descending order.
    - Transformed the scraped data to a structured format and write it to a CSV file (name it `IMDb_TopVoted.csv`).
 
 2. Conducted Data Enrichment:
