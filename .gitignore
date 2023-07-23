@@ -1,0 +1,11 @@
+# Ignore PDF and Libre Office files
+*.pdf
+*.odt
+*.ods
+
+# Ignore the html scripts
+*.html
+
+# Ignore the web folder that contains the python virtual environment
+/web/
+
