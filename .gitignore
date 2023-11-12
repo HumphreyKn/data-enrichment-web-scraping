@@ -9,3 +9,6 @@
 # Ignore the web folder that contains the python virtual environment
 /web/
 
+# Ignore .ipynb_checkpoints folder
+.ipynb_checkpoints/
+
